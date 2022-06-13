@@ -1,3 +1,6 @@
+アマグラマ / 高校1年 / SCP-JPサイトメンバー / 機械学習 / 自動作曲
+技術に乗り遅れる系技術者 / 記事を書かない系著者.
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruri226&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ruri226&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
